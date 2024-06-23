@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#tutorials {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#search {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.tutorial {
+  list-style: none;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.tutorial h2 {
+  margin: 0;
+}
+
+.tutorial p {
+  margin: 5px 0 0;
+}

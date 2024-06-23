@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div id="tutorials">
+    <input type="text" id="search" placeholder="Search by tag..." onkeyup="filterTutorials()">
+    <ul id="tutorial-list">
+        {% for tutorial in site.data.tutorials %}
+        <li class="tutorial">
+            <h2><a href="{{ tutorial.url }}" target="_blank">{{ tutorial.name }}</a></h2>
+            <p>Tags: {{ tutorial.tags | join: ', ' }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<script>
+    function filterTutorials() {
+      const input = document.getElementById('search').value.toLowerCase();
+      const tutorials = document.getElementsByClassName('tutorial');
+
+      for (let i = 0; i < tutorials.length; i++) {
+        const tags = tutorials[i].innerText.toLowerCase();
+        if (tags.includes(input)) {
+          tutorials[i].style.display = '';
+        } else {
+          tutorials[i].style.display = 'none';
+        }
+      }
+    }
+</script>
