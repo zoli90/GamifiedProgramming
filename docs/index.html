@@ -2,16 +2,23 @@
 layout: default
 ---
 
-<div id="tutorials">
-    <input type="text" id="search" placeholder="Search by tag..." onkeyup="filterTutorials()">
-    <ul id="tutorial-list">
-        {% for tutorial in site.data.tutorials %}
-        <li class="tutorial">
-            <h2><a href="{{ tutorial.url }}" target="_blank">{{ tutorial.name }}</a></h2>
-            <p>Tags: {{ tutorial.tags | join: ', ' }}</p>
-        </li>
-        {% endfor %}
-    </ul>
+<div class="container">
+    <header>
+        <h1>Gamified Programming Tutorials</h1>
+    </header>
+    <div class="search-container">
+        <input type="text" id="search" placeholder="Search by tag..." onkeyup="filterTutorials()">
+    </div>
+    <div id="tutorials">
+        <ul id="tutorial-list">
+            {% for tutorial in site.data.tutorials %}
+            <li class="tutorial">
+                <h2><a href="{{ tutorial.url }}" target="_blank">{{ tutorial.name }}</a></h2>
+                <p>Tags: <span class="tags">{{ tutorial.tags | join: ', ' }}</span></p>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </div>
 
 <script>
