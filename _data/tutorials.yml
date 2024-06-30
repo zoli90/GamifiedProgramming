@@ -1,42 +1,63 @@
-- name: "CheckiO"
-  url: "https://checkio.org"
-  tags: ["Python", "JavaScript", "TypeScript", "Data Structures and Algorithms"]
-- name: "HackerRank"
-  url: "https://www.hackerrank.com"
-  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
-- name: "Learn Git Branching"
-  url: "https://learngitbranching.js.org/"
-  tags: ["Git"]
-- name: "Oh My Git!"
-  url: "https://ohmygit.org/"
-  tags: ["Git"]
-- name: "Gandalf"
-  url: "https://gandalf.lakera.ai/"
-  tags: ["LLMs", "Security"]
-- name: "AWS Cloud Quest"
-  url: "https://aws.amazon.com/training/digital/aws-cloud-quest/"
-  tags: ["AWS", "Cloud"]
-- name: "EKS Cluster Games"
-  url: "https://eksclustergames.com/"
-  tags: ["Kubernetes", "Security"]
-- name: "KubeDoom"
-  url: "https://github.com/storax/kubedoom"
-  tags: ["Kubernetes"]
-- name: "KubeInvaders"
-  url: "https://github.com/lucky-sideburn/KubeInvaders"
-  tags: ["Kubernetes", "Demo"]
-- name: "KubeCraftAdmin"
-  url: "https://github.com/erjadi/kubecraftadmin"
-  tags: ["Kubernetes", "Demo"]
-- name: "Whack a pod"
-  url: "https://github.com/tpryan/whack_a_pod"
-  tags: ["Kubernetes", "Demo"]
-- name: "TigetBeetle Sim"
-  url: "https://sim.tigerbeetle.com/"
-  tags: ["Demo", "Databases"]
-- name: "CodeWars"
-  url: "https://www.codewars.com/"
-  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
 - name: "Advent of Code"
   url: "https://adventofcode.com/"
   tags: ["Data Structures and Algorithms"]
+- name: "AWS Cloud Quest"
+  url: "https://aws.amazon.com/training/digital/aws-cloud-quest/"
+  tags: ["AWS", "Cloud"]
+- name: "CheckIO"
+  url: "https://checkio.org"
+  tags: ["Python", "JavaScript", "TypeScript", "Data Structures and Algorithms"]
+- name: "CodeWars"
+  url: "https://www.codewars.com/"
+  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+- name: "EKS Cluster Games"
+  url: "https://eksclustergames.com/"
+  tags: ["Kubernetes", "Security"]
+- name: "Gandalf"
+  url: "https://gandalf.lakera.ai/"
+  tags: ["LLMs", "Security"]
+- name: "HackerRank"
+  url: "https://www.hackerrank.com"
+  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+- name: "HaskellQuest"
+  url: "https://github.com/roger-uw/HaskellQuest"
+  tags: ["Haskell"]
+- name: "KubeCraftAdmin"
+  url: "https://github.com/erjadi/kubecraftadmin"
+  tags: ["Kubernetes", "Demo"]
+- name: "KubeDoom"
+  url: "https://github.com/storax/kubedoom"
+  tags: ["Kubernetes", "Demo"]
+- name: "KubeInvaders"
+  url: "https://github.com/lucky-sideburn/KubeInvaders"
+  tags: ["Kubernetes", "Demo"]
+- name: "Learn Git Branching"
+  url: "https://learngitbranching.js.org/"
+  tags: ["Git"]
+- name: "LeetCode"
+  url: "https://leetcode.com/"
+  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+- name: "Oh My Git!"
+  url: "https://ohmygit.org/"
+  tags: ["Git"]
+- name: "Sad Servers"
+  url: "https://sadservers.com/"
+  tags: ["Linux"]
+- name: "Schemaverse"
+  url: "https://github.com/Abstrct/Schemaverse"
+  tags: ["SQL", "Databases", "PostgreSQL"]
+- name: "SQL Island"
+  url: "https://sql-island.informatik.uni-kl.de/"
+  tags: ["SQL", "Databases"]
+- name: "SQL Murder Mystery"
+  url: "https://mystery.knightlab.com/"
+  tags: ["SQL", "Databases", "SQLite"]
+- name: "SQL Police Department"
+  url: "https://sqlpd.com/"
+  tags: ["SQL", "Databases"]
+- name: "TigerBeetle Sim"
+  url: "https://sim.tigerbeetle.com/"
+  tags: ["Demo", "Databases"]
+- name: "Whack a pod"
+  url: "https://github.com/tpryan/whack_a_pod"
+  tags: ["Kubernetes", "Demo"]
