@@ -7,6 +7,15 @@
 - name: "CheckIO"
   url: "https://checkio.org"
   tags: ["Python", "JavaScript", "TypeScript", "Data Structures and Algorithms"]
+- name: "CodeCademy"
+  url: "https://www.codecademy.com/"
+  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+- name: "CodeCombat"
+  url: "https://www.codecombat.com/"
+  tags: ["Python", "JavaScript", "Data Structures and Algorithms"]
+- name: "SoloGame"
+  url: "https://codingame.com/"
+  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
 - name: "CodeWars"
   url: "https://www.codewars.com/"
   tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
@@ -40,12 +49,21 @@
 - name: "Oh My Git!"
   url: "https://ohmygit.org/"
   tags: ["Git"]
+- name: "Qubit Factory"
+  url: "https://qubitfactory.io/"
+  tags: ["Quantum Computing"]
+- name: "Robocode Tank Royale"
+  url: "https://github.com/robocode-dev/tank-royale"
+  tags: ["Java"]
 - name: "Sad Servers"
   url: "https://sadservers.com/"
   tags: ["Linux"]
 - name: "Schemaverse"
   url: "https://github.com/Abstrct/Schemaverse"
   tags: ["SQL", "Databases", "PostgreSQL"]
+- name: "SoloLearn"
+  url: "https://sololearn.com/"
+  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
 - name: "SQL Island"
   url: "https://sql-island.informatik.uni-kl.de/"
   tags: ["SQL", "Databases"]
