@@ -1,3 +1,6 @@
+- name: "7 Billion Humans"
+  url: "https://store.steampowered.com/app/792100/7_Billion_Humans"
+  tags: ["Data Structures and Algorithms"]
 - name: "Advent of Code"
   url: "https://adventofcode.com/"
   tags: ["Data Structures and Algorithms"]
@@ -13,7 +16,7 @@
 - name: "CodeCombat"
   url: "https://www.codecombat.com/"
   tags: ["Python", "JavaScript", "Data Structures and Algorithms"]
-- name: "SoloGame"
+- name: "CodinGame"
   url: "https://codingame.com/"
   tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
 - name: "CodeWars"
@@ -31,6 +34,9 @@
 - name: "HaskellQuest"
   url: "https://github.com/roger-uw/HaskellQuest"
   tags: ["Haskell"]
+- name: "Human Resource Machine"
+  url: "https://store.steampowered.com/app/375820/Human_Resource_Machine"
+  tags: ["Data Structures and Algorithms"]
 - name: "KubeCraftAdmin"
   url: "https://github.com/erjadi/kubecraftadmin"
   tags: ["Kubernetes", "Demo"]
