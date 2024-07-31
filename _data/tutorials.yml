@@ -58,6 +58,9 @@
 - name: "Qubit Factory"
   url: "https://qubitfactory.io/"
   tags: ["Quantum Computing"]
+- name: "Reduct Redux"
+  url: "https://reduct-game.github.io/play/"
+  tags: ["Functional Programming"]
 - name: "Robocode Tank Royale"
   url: "https://github.com/robocode-dev/tank-royale"
   tags: ["Java"]
