@@ -7,6 +7,12 @@
 - name: "AWS Cloud Quest"
   url: "https://aws.amazon.com/training/digital/aws-cloud-quest/"
   tags: ["AWS", "Cloud"]
+- name: "Bashcrawl"
+  url: "https://gitlab.com/slackermedia/bashcrawl"
+  tags: ["Linux"]
+- name: "Buttercup Go"
+  url: "https://www.splunk.com/en_us/blog/conf-splunklive/buttercup-games.html"
+  tags: ["Monitoring", "Not available anymore"]
 - name: "CheckIO"
   url: "https://checkio.org"
   tags: ["Python", "JavaScript", "TypeScript", "Data Structures and Algorithms"]
@@ -22,6 +28,18 @@
 - name: "CodeWars"
   url: "https://www.codewars.com/"
   tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+- name: "Command Line Heroes: BASH"
+  url: "https://arcade.redhat.com/bash/index.html"
+  tags: ["Linux"]
+- name: "Command Line Murders, The"
+  url: "https://github.com/veltman/clmystery"
+  tags: ["Linux"]
+- name: "CTF Sites"
+  url: "https://ctfsites.github.io/"
+  tags: ["Security"]
+- name: "d4rkr00t-CTF Sites"
+  url: "https://github.com/d4rkr00t-ctf/List-of-hacking-wargames"
+  tags: ["Security"]
 - name: "EKS Cluster Games"
   url: "https://eksclustergames.com/"
   tags: ["Kubernetes", "Security"]
@@ -52,9 +70,18 @@
 - name: "LeetCode"
   url: "https://leetcode.com/"
   tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+- name: "Linux Survival"
+  url: "https://linuxsurvival.com/"
+  tags: ["Linux"]
 - name: "Oh My Git!"
   url: "https://ohmygit.org/"
   tags: ["Git"]
+- name: "Over the wire wargames"
+  url: "https://overthewire.org/wargames/"
+  tags: ["Security"]
+- name: "PacVim"
+  url: "https://github.com/jmoon018/PacVim"
+  tags: ["Vim", "Build from source"]
 - name: "Qubit Factory"
   url: "https://qubitfactory.io/"
   tags: ["Quantum Computing"]
@@ -67,9 +94,12 @@
 - name: "Sad Servers"
   url: "https://sadservers.com/"
   tags: ["Linux"]
+- name: "ScalaQuest"
+  url: "https://www.kickstarter.com/projects/andanthor/scalaquest-a-game-to-learn-scala"
+  tags: ["Scala", "Not available anymore"]
 - name: "Schemaverse"
   url: "https://github.com/Abstrct/Schemaverse"
-  tags: ["SQL", "Databases", "PostgreSQL"]
+  tags: ["SQL", "Databases", "PostgreSQL", "Build from source"]
 - name: "SoloLearn"
   url: "https://sololearn.com/"
   tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
@@ -82,9 +112,27 @@
 - name: "SQL Police Department"
   url: "https://sqlpd.com/"
   tags: ["SQL", "Databases"]
+- name: "Terminal Quest"
+  url: "https://github.com/KanoComputing/terminal-quest"
+  tags: ["Linux", "Build from source"]
+- name: "Terminus"
+  url: "https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html"
+  tags: ["Linux"]
 - name: "TigerBeetle Sim"
   url: "https://sim.tigerbeetle.com/"
   tags: ["Demo", "Databases"]
+- name: "Vim Adventures"
+  url: "https://vim-adventures.com/"
+  tags: ["Vim"]
+- name: "Vim Adventures in Elm"
+  url: "https://mi-lee.github.io/vim-adventures-in-elm/"
+  tags: ["Vim"]
+- name: "Vim Racer"
+  url: "https://vim-racer.com/"
+  tags: ["Vim"]
+- name: "VimGolf"
+  url: "https://www.vimgolf.com/"
+  tags: ["Vim"]
 - name: "Whack a pod"
   url: "https://github.com/tpryan/whack_a_pod"
   tags: ["Kubernetes", "Demo"]
