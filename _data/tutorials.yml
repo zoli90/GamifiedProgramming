@@ -10,6 +10,12 @@
 - name: "Bashcrawl"
   url: "https://gitlab.com/slackermedia/bashcrawl"
   tags: ["Linux"]
+- name: "Battlesnake"
+  url: "https://play.battlesnake.com/"
+  tags: ["Artificial Intelligence"]
+- name: "Boot.dev"
+  url: "https://www.boot.dev/"
+  tags: ["Python", "Go", "JavaScript", "Data Structures and Algorithms"]
 - name: "Buttercup Go"
   url: "https://www.splunk.com/en_us/blog/conf-splunklive/buttercup-games.html"
   tags: ["Monitoring", "Not available anymore"]
@@ -34,18 +40,21 @@
 - name: "Command Line Murders, The"
   url: "https://github.com/veltman/clmystery"
   tags: ["Linux"]
-- name: "CTF Sites"
+- name: "CTF Sites (collection of websites)"
   url: "https://ctfsites.github.io/"
   tags: ["Security"]
-- name: "d4rkr00t-CTF Sites"
+- name: "d4rkr00t-CTF Sites (collection of websites)"
   url: "https://github.com/d4rkr00t-ctf/List-of-hacking-wargames"
   tags: ["Security"]
+- name: "Design Patterns Game"
+  url: "https://designpatternsgame.com/"
+  tags: ["Design Patterns", "JavaScript"]
 - name: "EKS Cluster Games"
   url: "https://eksclustergames.com/"
   tags: ["Kubernetes", "Security"]
 - name: "Gandalf"
   url: "https://gandalf.lakera.ai/"
-  tags: ["LLMs", "Security"]
+  tags: ["LLMs", "Security", "Artificial Intelligence"]
 - name: "HackerRank"
   url: "https://www.hackerrank.com"
   tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
@@ -90,7 +99,7 @@
   tags: ["Functional Programming"]
 - name: "Robocode Tank Royale"
   url: "https://github.com/robocode-dev/tank-royale"
-  tags: ["Java"]
+  tags: ["Java", "Artificial Intelligence"]
 - name: "Sad Servers"
   url: "https://sadservers.com/"
   tags: ["Linux"]
