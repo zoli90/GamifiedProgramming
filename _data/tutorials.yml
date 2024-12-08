@@ -15,31 +15,40 @@
   tags: ["Artificial Intelligence"]
 - name: "Boot.dev"
   url: "https://www.boot.dev/"
-  tags: ["Python", "Go", "JavaScript", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "Buttercup Go"
   url: "https://www.splunk.com/en_us/blog/conf-splunklive/buttercup-games.html"
   tags: ["Monitoring", "Not available anymore"]
 - name: "CheckIO"
   url: "https://checkio.org"
-  tags: ["Python", "JavaScript", "TypeScript", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "CodeCademy"
   url: "https://www.codecademy.com/"
-  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "CodeCombat"
   url: "https://www.codecombat.com/"
   tags: ["Python", "JavaScript", "Data Structures and Algorithms"]
+- name: "Code Hunt"
+  url: "http://codehunt.com/"
+  tags: ["Not available anymore"]
 - name: "CodinGame"
   url: "https://codingame.com/"
-  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "CodeWars"
   url: "https://www.codewars.com/"
-  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "Command Line Heroes: BASH"
   url: "https://arcade.redhat.com/bash/index.html"
   tags: ["Linux"]
 - name: "Command Line Murders, The"
   url: "https://github.com/veltman/clmystery"
   tags: ["Linux"]
+- name: "Cryptohack"
+  url: "https://cryptohack.org/"
+  tags: ["Cryptography"]
+- name: "Cryptopals crypto challenges, The"
+  url: "https://cryptopals.com/"
+  tags: ["Cryptography"]
 - name: "CTF Sites (collection of websites)"
   url: "https://ctfsites.github.io/"
   tags: ["Security"]
@@ -49,15 +58,24 @@
 - name: "Design Patterns Game"
   url: "https://designpatternsgame.com/"
   tags: ["Design Patterns", "JavaScript"]
+- name: "Dungeons and Developers"
+  url: "http://dungeonsanddevelopers.com/"
+  tags: ["Not available anymore"]
 - name: "EKS Cluster Games"
   url: "https://eksclustergames.com/"
   tags: ["Kubernetes", "Security"]
+- name: "Exercism"
+  url: "https://exercism.org"
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
+- name: "FightCode"
+  url: "http://fightcodegame.com/"
+  tags: ["Not available anymore"]
 - name: "Gandalf"
   url: "https://gandalf.lakera.ai/"
   tags: ["LLMs", "Security", "Artificial Intelligence"]
 - name: "HackerRank"
   url: "https://www.hackerrank.com"
-  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "HaskellQuest"
   url: "https://github.com/roger-uw/HaskellQuest"
   tags: ["Haskell"]
@@ -78,13 +96,16 @@
   tags: ["Git"]
 - name: "LeetCode"
   url: "https://leetcode.com/"
-  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "Linux Survival"
   url: "https://linuxsurvival.com/"
   tags: ["Linux"]
 - name: "Oh My Git!"
   url: "https://ohmygit.org/"
   tags: ["Git"]
+- name: "Operation Deep Magic: Cryptanalysis"
+  url: "https://store.steampowered.com/app/1218030/Operation_Deep_Magic_Cryptanalysis/"
+  tags: ["Cryptography"]
 - name: "Over the wire wargames"
   url: "https://overthewire.org/wargames/"
   tags: ["Security"]
@@ -100,6 +121,9 @@
 - name: "Robocode Tank Royale"
   url: "https://github.com/robocode-dev/tank-royale"
   tags: ["Java", "Artificial Intelligence"]
+- name: "Ruby Warrior"
+  url: "https://www.bloc.io/ruby-warrior#/"
+  tags: ["Ruby on Rails", "Not available anymore"]
 - name: "Sad Servers"
   url: "https://sadservers.com/"
   tags: ["Linux"]
@@ -111,7 +135,7 @@
   tags: ["SQL", "Databases", "PostgreSQL", "Build from source"]
 - name: "SoloLearn"
   url: "https://sololearn.com/"
-  tags: ["Python", "JavaScript", "TypeScript", "Java", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "SQL Island"
   url: "https://sql-island.informatik.uni-kl.de/"
   tags: ["SQL", "Databases"]
@@ -127,6 +151,9 @@
 - name: "Terminus"
   url: "https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html"
   tags: ["Linux"]
+- name: "Tetris-SQL"
+  url: "https://github.com/nuno-faria/tetris-sql"
+  tags: ["SQL", "Databases", "Demo", "PostgreSQL"]
 - name: "TigerBeetle Sim"
   url: "https://sim.tigerbeetle.com/"
   tags: ["Demo", "Databases"]
