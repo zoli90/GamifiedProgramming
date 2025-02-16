@@ -7,6 +7,12 @@
 - name: "AWS Cloud Quest"
   url: "https://aws.amazon.com/training/digital/aws-cloud-quest/"
   tags: ["AWS", "Cloud"]
+- name: "AWS Escape Room"
+  url: "https://explore.skillbuilder.aws/learn/courses/17373/aws-escape-room-for-exam-prep-aws-certified-cloud-practitioner-clf-c02"
+  tags: ["AWS", "Cloud"]
+- name: "AWS Simulearn"
+  url: "https://aws.amazon.com/training/digital/aws-simulearn/"
+  tags: ["AWS", "Cloud"]
 - name: "Bashcrawl"
   url: "https://gitlab.com/slackermedia/bashcrawl"
   tags: ["Linux"]
@@ -27,7 +33,7 @@
   tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "CodeCombat"
   url: "https://www.codecombat.com/"
-  tags: ["Python", "JavaScript", "Data Structures and Algorithms"]
+  tags: ["Data Structures and Algorithms", "Multiple languages"]
 - name: "Code Hunt"
   url: "http://codehunt.com/"
   tags: ["Not available anymore"]
@@ -37,6 +43,9 @@
 - name: "CodeWars"
   url: "https://www.codewars.com/"
   tags: ["Data Structures and Algorithms", "Multiple languages"]
+- name: "Code on the cob"
+  url: "https://codeonthecob.com/"
+  tags: ["Data Structures and Algorithms", "Python"]
 - name: "Command Line Heroes: BASH"
   url: "https://arcade.redhat.com/bash/index.html"
   tags: ["Linux"]
@@ -97,9 +106,15 @@
 - name: "LeetCode"
   url: "https://leetcode.com/"
   tags: ["Data Structures and Algorithms", "Multiple languages"]
+- name: "Let's play functional programming"
+  url: "https://javascript.plainenglish.io/lets-play-functional-programming-7da92d6f97d9"
+  tags: ["javascript", "functional programming"]
 - name: "Linux Survival"
   url: "https://linuxsurvival.com/"
   tags: ["Linux"]
+- name: "Luna Park"
+  url: "https://luna-park.app/challenge"
+  tags: ["Visual Programming"]
 - name: "Oh My Git!"
   url: "https://ohmygit.org/"
   tags: ["Git"]
@@ -169,6 +184,9 @@
 - name: "VimGolf"
   url: "https://www.vimgolf.com/"
   tags: ["Vim"]
+- name: "WasmBots"
+  url: "https://shaneliesegang.com/projects/wasmbots/"
+  tags: ["Webassembly", "Multiple languages"]
 - name: "Whack a pod"
   url: "https://github.com/tpryan/whack_a_pod"
   tags: ["Kubernetes", "Demo"]
